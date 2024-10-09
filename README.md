@@ -10,7 +10,7 @@
 
 💬 Ask me about - Flutter, Kubernetes, Typescript
 
-:computer: Current Interest - Clean Architecture,Machine learning
+:computer: Current Interest - Clean Architecture, AWS
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/thivagarm/">
   <img
