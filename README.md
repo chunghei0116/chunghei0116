@@ -4,7 +4,7 @@
 <h3 align="center">
   A passionate Developer with a desire to explore more about software development :smile:
 </h3>
-<h3>Currently digging into DevOps, Flutte :wink:</h3>
+<h3>Currently digging into DevOps, Flutter :wink:</h3>
 
 🔭 I’m currently working on - International Construction company
 
