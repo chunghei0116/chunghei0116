@@ -12,12 +12,7 @@
 
 :computer: Current Interest - Clean Architecture, AWS
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/thivagarm/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
-  />
-</a>
+
 
 **Have worked in:**
 
