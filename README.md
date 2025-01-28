@@ -1,5 +1,7 @@
+<!-- ![Jones Tse's card name](https://cardivo.vercel.app/api?name=Jones%20Tse&description=Hi%2C%20It%27s%20Jones%20Tse%20here%20%20A%20passionate%20Developer%20with%20a%20desire%20to%20explore%20more%20about%20software%20development&image=&backgroundColor=%23ecf0f1&instagram=trbzr_h&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=chunghei0116&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea) -->
 <h1 align="center">
-  Hi, It's Jones Tse here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+Hi, It's Jones Tse here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+
 </h1>
 <h3 align="center">
   A passionate Developer with a desire to explore more about software development <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnEzd3JlcHM4azAzY25ra3h4MDUzcGVtZjY2dXJ4YmtsY2ZmMXo0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" width="25px" height="25px">
@@ -73,4 +75,7 @@
   <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white&style=flat" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=flat" />
+</p>
+<p align="center" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chunghei0116&theme=default" alt="GitHub Profile Summary Card" style="width: 100%"/>
 </p>
