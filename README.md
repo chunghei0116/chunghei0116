@@ -76,6 +76,8 @@ Hi, It's Jones Tse here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=flat" />
 </p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=chunghei0116&rank=SSS,SS,S,AAA,AA,A,B,C)
 <p align="center" >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chunghei0116&theme=default" alt="GitHub Profile Summary Card" style="width: 100%"/>
 </p>
