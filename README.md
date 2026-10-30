@@ -3,9 +3,9 @@
 
 # Hi, I'm Jones Tse 👋
 
-### Software Engineer | Mobile Development · DevOps · AI Engineering
+### Software Engineer | Mobile · DevOps · AI Engineering
 
-Building reliable applications, automating delivery pipelines, and exploring AI-powered engineering workflows.
+A passionate developer who enjoys building applications, exploring new technologies, and turning ideas into reality.
 
 </div>
 
@@ -13,15 +13,16 @@ Building reliable applications, automating delivery pipelines, and exploring AI-
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineer based in Hong Kong with around 3 years of experience in mobile and web application development, DevOps, production support, and automation.
+I'm a Software Engineer based in Hong Kong with a passion for mobile development, DevOps, cloud-native technologies, and AI engineering.
 
-- 📱 **Currently:** Mobile Application Developer at **AS Watson Group**, working on the **MoneyBack** loyalty and CRM app using Flutter.
-- 🏗️ **Previously:** Programmer at **Asia Allied Infrastructure**, developing enterprise applications and implementing DevOps solutions.
-- 🚀 **Engineering:** Experienced in Kubernetes, Docker, Helm, Argo CD, CI/CD, and mobile release automation.
-- 🤖 **AI Engineering:** Exploring RAG, LangGraph, Google ADK, vector databases, and agentic workflows.
-- 🧪 **Quality & Observability:** Working with Maestro, Sentry, Firebase Crashlytics, GA4, and UXCam.
-- 🌱 **Currently Learning:** AWS, GitOps, cloud-native engineering, and Kubernetes application development.
-- 💬 **Ask me about:** Flutter, Kubernetes, CI/CD, and developer automation.
+I enjoy exploring the entire software development lifecycle — from building applications to automating deployments, improving reliability, and creating intelligent developer tools.
+
+- 📱 **Mobile Development:** Flutter, Dart, Firebase, and Shorebird.
+- 🚀 **DevOps & Cloud:** Kubernetes, Docker, Helm, Argo CD, CI/CD, and GitOps.
+- 🤖 **AI Engineering:** RAG, LangGraph, Google ADK, vector databases, and agentic workflows.
+- 🧪 **Testing & Observability:** Maestro, Sentry, Firebase Crashlytics, GA4, and ELK Stack.
+- 🌱 **Currently Exploring:** AWS, cloud-native engineering, Kubernetes, and AI-powered developer automation.
+- 💬 **Ask me about:** Flutter, Kubernetes, CI/CD, and AI agents.
 
 ---
 
@@ -51,7 +52,6 @@ I'm a Software Engineer based in Hong Kong with around 3 years of experience in 
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&style=flat-square)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?logo=argo&logoColor=white&style=flat-square)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
 **AI Engineering**
@@ -72,26 +72,15 @@ I'm a Software Engineer based in Hong Kong with around 3 years of experience in 
 
 ---
 
-### 💼 Engineering Experience
+### 📊 GitHub Contributions
 
-**Mobile Application Developer | AS Watson Group**
+<div align="center">
 
-- Develop and maintain **MoneyBack**, a large-scale Flutter-based loyalty and CRM application supporting an O+O ecosystem across 200+ merchant partners.
-- Deliver customer-facing features and support production releases.
-- Establish mobile automated testing workflows using **Maestro**.
-- Develop AI-assisted Jira issue decomposition workflows with **LangGraph, Google ADK, RAG, and Confluence knowledge integration**.
-- Investigate production issues using **Sentry, UXCam, and GA4**.
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=chunghei0116&theme=dark&stats=true" alt="3D GitHub Contribution Graph" width="100%" />
 
-**Programmer | Asia Allied Infrastructure**
+</div>
 
-- Developed internal mobile and web applications using **Flutter, React, and Next.js**.
-- Migrated application deployments from Docker-based environments to **Kubernetes with Helm and Argo CD**.
-- Implemented **CI/CD pipelines**, automated mobile releases, and **Shorebird OTA updates**.
-- Established centralized logging and monitoring using the **ELK Stack**.
-
----
-
-### 📊 GitHub Overview
+### 📈 GitHub Overview
 
 <div align="center">
 
