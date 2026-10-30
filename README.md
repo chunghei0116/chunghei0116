@@ -1,83 +1,108 @@
-<!-- ![Jones Tse's card name](https://cardivo.vercel.app/api?name=Jones%20Tse&description=Hi%2C%20It%27s%20Jones%20Tse%20here%20%20A%20passionate%20Developer%20with%20a%20desire%20to%20explore%20more%20about%20software%20development&image=&backgroundColor=%23ecf0f1&instagram=trbzr_h&linkedin=I%20Gusti%20Ngurah%20Satya%20%20Wikananda&github=chunghei0116&twitter=satya_wikananda&pattern=leaf&colorPattern=%23eaeaea) -->
-<h1 align="center">
-Hi, It's Jones Tse here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-</h1>
-<h3 align="center">
-  A passionate Developer with a desire to explore more about software development <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnEzd3JlcHM4azAzY25ra3h4MDUzcGVtZjY2dXJ4YmtsY2ZmMXo0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" width="25px" height="25px">
-</h3>
-<hr>
-<h3>Currently digging into DevOps, Flutter, Tauri</h3>
+<div align="center">
 
-🔭 I’m currently working on - International Construction company
+# Hi, I'm Jones Tse 👋
 
-💬 Ask me about - Flutter, Kubernetes
+### Software Engineer | Mobile Development · DevOps · AI Engineering
 
-:computer: Current Interest - GitOps, AWS, CKAD
+Building reliable applications, automating delivery pipelines, and exploring AI-powered engineering workflows.
 
-<hr>
+</div>
 
-**Have worked in:**
+---
 
-**DevOps - Containerization, Orchestration and Version Control**
+### 👨‍💻 About Me
 
-<p>  
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" />
-  <img alt="ELK" src="https://img.shields.io/badge/ELK-005571?logo=elastic&logoColor=white&style=flat" />
-  <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-2496ED?logo=argo&logoColor=white&style=flat" />
-</p>
+I'm a Software Engineer based in Hong Kong with around 3 years of experience in mobile and web application development, DevOps, production support, and automation.
 
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
-  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=flat" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
+- 📱 **Currently:** Mobile Application Developer at **AS Watson Group**, working on the **MoneyBack** loyalty and CRM app using Flutter.
+- 🏗️ **Previously:** Programmer at **Asia Allied Infrastructure**, developing enterprise applications and implementing DevOps solutions.
+- 🚀 **Engineering:** Experienced in Kubernetes, Docker, Helm, Argo CD, CI/CD, and mobile release automation.
+- 🤖 **AI Engineering:** Exploring RAG, LangGraph, Google ADK, vector databases, and agentic workflows.
+- 🧪 **Quality & Observability:** Working with Maestro, Sentry, Firebase Crashlytics, GA4, and UXCam.
+- 🌱 **Currently Learning:** AWS, GitOps, cloud-native engineering, and Kubernetes application development.
+- 💬 **Ask me about:** Flutter, Kubernetes, CI/CD, and developer automation.
 
-</p>
+---
 
-**Mobile**
+### 🛠️ Tech Stack
 
-<p>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat" />
-  <img alt="Shorebird" src="https://img.shields.io/badge/Shorebird-02569B?logo=shorebird&logoColor=white&style=flat" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=flat" />
-</p>
+**Mobile Development**
 
-**Web**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white&style=flat-square)
+![Shorebird](https://img.shields.io/badge/Shorebird-02569B?style=flat-square)
+![Maestro](https://img.shields.io/badge/Maestro-6B46C1?style=flat-square)
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
-  <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
-</p>
+**Web & Backend Development**
 
-**Database**
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
 
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=flat" />
-</p>
+**DevOps & Cloud Infrastructure**
 
-**Development tools used:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white&style=flat-square)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?logo=argo&logoColor=white&style=flat-square)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
-<p>
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
-</p>
+**AI Engineering**
 
-**Operating System familiar with:**
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white&style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-5B21B6?style=flat-square)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?logo=google&logoColor=white&style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-0F766E?style=flat-square)
 
-<p>
-  <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white&style=flat" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white&style=flat" />
-</p>
+**Data & Observability**
 
-![trophy](https://github-profile-trophy.vercel.app/?username=chunghei0116&rank=SSS,SS,S,AAA,AA,A,B,C)
-<p align="center" >
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chunghei0116&theme=default" alt="GitHub Profile Summary Card" style="width: 100%"/>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?logo=elastic&logoColor=white&style=flat-square)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white&style=flat-square)
+![GA4](https://img.shields.io/badge/GA4-E37400?logo=googleanalytics&logoColor=white&style=flat-square)
+![UXCam](https://img.shields.io/badge/UXCam-333333?style=flat-square)
+
+---
+
+### 💼 Engineering Experience
+
+**Mobile Application Developer | AS Watson Group**
+
+- Develop and maintain **MoneyBack**, a large-scale Flutter-based loyalty and CRM application supporting an O+O ecosystem across 200+ merchant partners.
+- Deliver customer-facing features and support production releases.
+- Establish mobile automated testing workflows using **Maestro**.
+- Develop AI-assisted Jira issue decomposition workflows with **LangGraph, Google ADK, RAG, and Confluence knowledge integration**.
+- Investigate production issues using **Sentry, UXCam, and GA4**.
+
+**Programmer | Asia Allied Infrastructure**
+
+- Developed internal mobile and web applications using **Flutter, React, and Next.js**.
+- Migrated application deployments from Docker-based environments to **Kubernetes with Helm and Argo CD**.
+- Implemented **CI/CD pipelines**, automated mobile releases, and **Shorebird OTA updates**.
+- Established centralized logging and monitoring using the **ELK Stack**.
+
+---
+
+### 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chunghei0116&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Always learning. Always building.*
+
+</div>
